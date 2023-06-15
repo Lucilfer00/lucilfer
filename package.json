@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/siegfriedsama/SiegfriedBot"
+		"url": "https://github.com/Ryy00/KyrinWu"
 	},
 	"keywords": [
 		"bot",
@@ -25,9 +25,9 @@
 	"author": "Kyrin Wu",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/siegfriedsama/SiegfriedBot"
+		"url": "https://github.com/Ryy00/KyrinWu"
 	},
-	"homepage": "https://github.com/siegfriedsama/SiegfriedBot",
+	"homepage": "https://github.com/Ryy00/KyrinWu",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
