@@ -1,8 +1,8 @@
 {
-    "name": "KyrinBot",
+    "name": "Lucilfer",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "KyrinWu.js",
+    "main": "Lucilfer.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ryy00/Pogi.git"
+        "url": "git+https://github.com/Lucilfer/Lucilfer.git"
     },
-    "author": "KyrinWu",
+    "author": "Lucilfer",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
