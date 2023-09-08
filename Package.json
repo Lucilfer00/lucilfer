@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Lucilfer/Lucilfer.git"
+        "url": "git+https://github.com/Lucilfer/lucilfer.git"
     },
     "author": "Lucilfer",
     "license": "GPL-3.0",
