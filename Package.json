@@ -2,7 +2,7 @@
     "name": "chrolloAI",
     "version": "1.2.14",
     "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "Lucilfer.js",
+    "main": "chrollo.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
