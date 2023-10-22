@@ -1,5 +1,5 @@
 {
-	"name": "Lucilfer",
+	"name": "chrolloAI",
 	"version": "7.3.1",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "Lucilfer.js",
@@ -22,7 +22,7 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "Lucilfer",
+	"author": "chrollo",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/Lucilfer00/Lucilfer"
